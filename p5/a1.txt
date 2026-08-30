@@ -1,0 +1,2 @@
+Directory: A directory is simply a folder on the computer.
+Workspace: A workspace is a folder used to keep files related to a particular task or project.
